@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="correct_toast">Правильно!</string>
+    <string name="incorrect_toast">Неправильно!</string>
+    <string name="question_1">90*60 =5400? </string>
+
+    <string name="question_2">MySql создан компанией ORACLE? </string>
+
+    <string name="question_3">Столица Алжира - Алжир ? </string>
+
+    <string name="question_4">Картину «Корабельная Роща» написал  художник Айвазовский? </string>
+
+    <string name="question_5">Произведение "Евгений Онегин" написал Достоевский? </string>
+    <string-array name="answers">
+
+        <item>5400</item>
+
+        <item>MySql создан компанией ORACLE</item>
+
+        <item>Верно</item>
+
+        <item>Неверно</item>
+
+        <item>Неверно</item>
+
+    </string-array>
+</resources>
